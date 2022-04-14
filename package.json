@@ -36,6 +36,7 @@
     "@angular/common": "12.1.2",
     "@angular/compiler": "12.1.2",
     "@angular/core": "12.1.2",
+    "@angular/elements": "13.3.3",
     "@angular/flex-layout": "12.0.0-beta.35",
     "@angular/forms": "12.1.2",
     "@angular/language-service": "12.1.2",
